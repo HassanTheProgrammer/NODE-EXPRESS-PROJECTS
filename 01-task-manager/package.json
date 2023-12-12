@@ -1,0 +1,11 @@
+{
+  "name": "01-task-manager",
+  "version": "1.0.0",
+  "description": "Task Manager APIs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Hassan Murtaza",
+  "license": "ISC"
+}
